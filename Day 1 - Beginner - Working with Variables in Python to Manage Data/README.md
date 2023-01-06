@@ -1,4 +1,4 @@
-Concepts for Day 1:
+### Concepts for Day 1:
 
  - Print Statement in Python
  - String Manipulation and Code Intelligence
